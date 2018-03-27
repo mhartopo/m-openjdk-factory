@@ -1,0 +1,3 @@
+[submodule "obuildfactory"]
+	path = obuildfactory
+	url = https://github.com/mhartopo/obuildfactory
